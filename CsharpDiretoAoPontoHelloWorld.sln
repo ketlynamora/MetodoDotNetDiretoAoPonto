@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetDiretoAoPonto.Estruturas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetDiretoAoPonto.TrabalhandoComStrings", "NetDiretoAoPonto.TrabalhandoComStrings\NetDiretoAoPonto.TrabalhandoComStrings.csproj", "{340F9451-A125-4E9D-9D1A-A4827B96AD4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetDiretoAoPonto.ArraysListasLinq", "NetDiretoAoPonto.ArraysListasLinq\NetDiretoAoPonto.ArraysListasLinq.csproj", "{C7130DFF-7966-40B7-A195-4128D3F36033}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetDiretoAoPonto.ArraysListasLinq", "NetDiretoAoPonto.ArraysListasLinq\NetDiretoAoPonto.ArraysListasLinq.csproj", "{C7130DFF-7966-40B7-A195-4128D3F36033}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetDiretoAoPonto.TrabalhandoComDateTime", "NetDiretoAoPonto.TrabalhandoComDateTime\NetDiretoAoPonto.TrabalhandoComDateTime.csproj", "{8545993B-E9B4-401B-B135-D261421C022D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetDiretoAoPonto.TrabalhandoComArquivos", "NetDiretoAoPonto.TrabalhandoComArquivos\NetDiretoAoPonto.TrabalhandoComArquivos.csproj", "{2077D42D-DA4B-4659-80FA-638958B7B1B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{8545993B-E9B4-401B-B135-D261421C022D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8545993B-E9B4-401B-B135-D261421C022D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8545993B-E9B4-401B-B135-D261421C022D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2077D42D-DA4B-4659-80FA-638958B7B1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2077D42D-DA4B-4659-80FA-638958B7B1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2077D42D-DA4B-4659-80FA-638958B7B1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2077D42D-DA4B-4659-80FA-638958B7B1B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
