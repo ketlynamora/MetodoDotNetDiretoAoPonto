@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetDiretoAoPonto.ArraysList
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetDiretoAoPonto.TrabalhandoComDateTime", "NetDiretoAoPonto.TrabalhandoComDateTime\NetDiretoAoPonto.TrabalhandoComDateTime.csproj", "{8545993B-E9B4-401B-B135-D261421C022D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetDiretoAoPonto.TrabalhandoComArquivos", "NetDiretoAoPonto.TrabalhandoComArquivos\NetDiretoAoPonto.TrabalhandoComArquivos.csproj", "{2077D42D-DA4B-4659-80FA-638958B7B1B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetDiretoAoPonto.TrabalhandoComArquivos", "NetDiretoAoPonto.TrabalhandoComArquivos\NetDiretoAoPonto.TrabalhandoComArquivos.csproj", "{2077D42D-DA4B-4659-80FA-638958B7B1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetDiretoAoPonto.TratandoExcecoes", "NetDiretoAoPonto.TratandoExcecoes\NetDiretoAoPonto.TratandoExcecoes.csproj", "{9252E73A-32ED-466C-A3B3-C5EB98D4BCED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{2077D42D-DA4B-4659-80FA-638958B7B1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2077D42D-DA4B-4659-80FA-638958B7B1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2077D42D-DA4B-4659-80FA-638958B7B1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9252E73A-32ED-466C-A3B3-C5EB98D4BCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9252E73A-32ED-466C-A3B3-C5EB98D4BCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9252E73A-32ED-466C-A3B3-C5EB98D4BCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9252E73A-32ED-466C-A3B3-C5EB98D4BCED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
