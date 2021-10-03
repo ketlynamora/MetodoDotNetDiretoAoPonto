@@ -8,7 +8,7 @@
 
 > Conceitos práticos desenvolvidos durante o curso de .NET 
 
-### Principais conceitos
+## 📝 Principais conceitos
 
 O curso ainda está em desenvolvimento e as principais tarefas já desenvolvidas foram:
 
@@ -19,6 +19,6 @@ O curso ainda está em desenvolvimento e as principais tarefas já desenvolvidas
 - [x] O que é Programação orientada a objetos (POO)
 
 
-## 📝 Anotações
+## ✏️ Anotações
 
 Veja o arquivo [Método .NET Direto Ao Ponto](https://fortunate-aerosteon-f80.notion.site/M-todo-NET-Direto-Ao-Ponto-1410c7229f014fe8b942ab18a435a06c) para mais detalhes.
